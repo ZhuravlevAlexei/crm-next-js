@@ -9,5 +9,9 @@
 }
 
 body {
-  background-color: #FAFAFA;
+  background-color: #fafafa;
+}
+
+:root {
+  font-size: 16px;
 }
